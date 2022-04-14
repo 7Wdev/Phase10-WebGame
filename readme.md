@@ -20,7 +20,7 @@ The code is completly mine except the dependencies that I used, so feel free to 
 	```
 
 ## Start the app
-After you followed the steps in the "Build" sections your build should be ready to start:
+After you followed the steps in the "Build" section your build should be ready to start:
 - Open a terminal and execute that command to pack the frontend:
 	```bash
 	npm run build

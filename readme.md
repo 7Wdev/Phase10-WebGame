@@ -2,7 +2,7 @@
 [![Logo](https://play-lh.googleusercontent.com/TSWxyhsMENOyjTnRG5PmHFIMdg095lWEbcapjfsRbJ7YLicYUXS4mQ7tjhmjCIldTJ8k "Phase 10")](https://www.unorules.org/phase-10-rules/ "Phase 10")
 
 Phase 10 is a popular card game, I don't own the game or anything belongs to it. I just implemented it into a web game to have fun with my friends.
-This application is made only for fun and not for any financial or commercial purposes1!
+This application is made only for fun and not for any financial or commercial purposes!
 The code is completly mine except the dependencies that I used, so feel free to clone, contribute or fork...
 
 ## Build

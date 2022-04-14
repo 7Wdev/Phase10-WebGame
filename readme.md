@@ -10,7 +10,7 @@ The code is completly mine except the dependencies that I used, so feel free to 
 	- Create a folder of your choice.
 	- Clone the repository either by downloading it or executing this command:
 	```bash
-	git clone https://github.com/T-Caster/Fline.git
+	git clone https://github.com/7Wdev/Phase10-WebGame.git
 	```
 ---
 - Then you need to install the npm packages: 
